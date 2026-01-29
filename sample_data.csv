@@ -1,0 +1,11 @@
+name,age,salary,gender,city
+Alice,25.0,50000.0,Female,Mumbai
+Bob,30.0,60000.0,Male,Pune
+Charlie,35.0,,Male,Nashik
+David,,55000.0,Male,Mumbai
+Eva,28.0,62000.0,Female,Pune
+Frank,40.0,70000.0,Male,Nashik
+Grace,32.0,58000.0,Female,Mumbai
+Hannah,,63000.0,Female,Pune
+Ian,29.0,61000.0,Male,Nashik
+Judy,31.0,,Female,Mumbai
